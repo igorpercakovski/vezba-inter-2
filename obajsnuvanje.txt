@@ -1,9 +1,0 @@
-Posledniot del od vezbata so rest nemozev da go zavrsam bidejki servisite na thomas-bayer bea padnati (istraziv na google)
-
-1. so JSON generator go generirame zadadeniot kod, a potoa so mapper sallary go pridodavame kon kontaktot.
-2.od druga strana go vcituvame fajlot big salaries od prethodnata vezba 
-( probav i so zipreader no dodavase na polinjata dodatno pole)
-potoa za proverka dali go ima kontaktot jessica alba koristime filter koj na kraj ne dade rezultat popostaveniot
-uslof so znaci go nema kontaktot.
-3. potoa koristime use eden mapper za da go razdelime name na FirstName i LastName i so union gi soedinuvame big salaries 
-so kontaktot
